@@ -1,0 +1,116 @@
+City,Cost,Carrier,Plane seats,Flights,Boardings,Air Choice One,American,Boutique,Cape Air,Great Lakes,Sea Port,Silver,SkyWest,Adj boardings
+AL Muscle Shoals ,1739308,SeaPort,9,4,2345,0,0,0,0,0,1,0,0,2345
+AR El Dorado/Camden ,1977153,SeaPort,9,4,4091,0,0,0,0,0,1,0,0,4091
+AR Harrison ,2251207,SeaPort,9,3,5123,0,0,0,0,0,1,0,0,5123
+AR Hot Springs ,1637012,SeaPort,9,3,2904,0,0,0,0,0,1,0,0,2904
+AR Jonesboro ,1942890,Air,9,3,5056,1,0,0,0,0,0,0,0,5056
+AZ Page ,2472028,Great,19,3,26998,0,0,0,0,1,0,0,0,8000
+AZ Prescott ,2657002,Great,30,2,5223,0,0,0,0,1,0,0,0,5223
+AZ Show Low ,1243255,Boutique,9,2.5,3759,0,0,1,0,0,0,0,0,3759
+CA Crescent City ,3506231,PenAir,30,2,13701,0,0,0,0,0,0,0,0,13701
+CA El Centro ,2264008,SeaPort,9,4,2762,0,0,0,0,0,1,0,0,2762
+CA Merced ,2991546,Boutique,9,5,2580,0,0,1,0,0,0,0,0,2580
+CA Visalia ,1990563,SeaPort,9,4,3521,0,0,0,0,0,1,0,0,3521
+CO Alamosa ,2192179,Great,19,3,6983,0,0,0,0,1,0,0,0,6983
+CO Cortez ,2270297,Great,19,3,8218,0,0,0,0,1,0,0,0,8218
+CO Pueblo** ,1776448,none,30,2,6785,0,0,0,0,0,0,0,0,6785
+GA Macon*** ,1998696,none,34,2,1966,0,0,0,0,0,0,0,0,1966
+HI Kalaupapa ,730848,Makani,9,5,5128,0,0,0,0,0,0,0,0,5128
+HI Kamuela ,417310,Mokulele,9,2,5287,0,0,0,0,0,0,0,0,5287
+IA Burlington ,1917566,Air,9,4,6692,1,0,0,0,0,0,0,0,6692
+IA Fort Dodge ,3715953,Air,9,4,3083,1,0,0,0,0,0,0,0,3083
+IA Mason City ,3715953,Air,9,4,3188,1,0,0,0,0,0,0,0,3188
+IA Sioux City ,611434,American,50,2,31675,0,1,0,0,0,0,0,0,31675
+IA Waterloo ,945546,American,50,2,23994,0,1,0,0,0,0,0,0,23994
+IL Decatur ,2667922,Air,9,6,6827,1,0,0,0,0,0,0,0,6827
+IL Marion/Herrin ,2104616,Cape,9,6,11241,0,0,0,1,0,0,0,0,11241
+"IL Quincy/Hannibal, MO ",1956856,Cape,9,6,10679,0,0,0,1,0,0,0,0,10679
+KS Dodge City ,2339131,Great,19,3,5789,0,0,0,0,1,0,0,0,5789
+KS Garden City ,1445172,American,50,2,26428,0,1,0,0,0,0,0,0,26428
+KS Great Bend ,1434472,SeaPort,9,2,942,0,0,0,0,0,1,0,0,942
+KS Hays ,2253132,SkyWest,50,2,8726,0,0,0,0,0,0,0,1,8726
+"KS Liberal/Guymon, OK ",2236180,Great,19,3,11101,0,0,0,0,1,0,0,0,11101
+KS Salina ,1490479,SeaPort,9,3,2829,0,0,0,0,0,1,0,0,2829
+KY Owensboro ,1529913,Cape,9,3,22202,0,0,0,1,0,0,0,0,6500
+KY Paducah ,2034160,SkyWest,50,2,20858,0,0,0,0,0,0,0,1,20858
+MD Hagerstown ,1785638,Sun,8,4,15189,0,0,0,0,0,0,0,0,5000
+ME Augusta/Waterville ,1818106,Cape,9,3.5,5798,0,0,0,1,0,0,0,0,5798
+ME Bar Harbor ,1631223,Cape,13.1666666667,3,10292,0,0,0,1,0,0,0,0,10292
+ME Presque Isle/Houlton ,4710683,PenAir,33,3,12330,0,0,0,0,0,0,0,0,12330
+ME Rockland ,1890918,Cape,9,5,15724,0,0,0,1,0,0,0,0,15724
+MI Alpena ,2168995,SkyWest,50,2,15914,0,0,0,0,0,0,0,1,15914
+MI Escanaba ,3507011,SkyWest,50,2,17946,0,0,0,0,0,0,0,1,17946
+MI Hancock/Houghton ,690976,SkyWest,50,2,25312,0,0,0,0,0,0,0,1,25312
+MI Iron Mountain/Kingsford ,2970122,SkyWest,50,2,12504,0,0,0,0,0,0,0,1,12504
+"MI Ironwood/Ashland, WI ",3563394,Air,9,3,2540,1,0,0,0,0,0,0,0,2540
+MI Manistee/Ludington ,2328104,Alternate,24.5,1.5,3306,0,0,0,0,0,0,0,0,3306
+MI Muskegon ,1389952,SkyWest,50,2,18020,0,0,0,0,0,0,0,1,18020
+MI Pellston ,1077413,Delta,50,2,28168,0,0,0,0,0,0,0,0,28168
+MI Sault Ste. Marie ,1765393,Delta,50,2,21827,0,0,0,0,0,0,0,0,21827
+MN Bemidji ,1118050,SkyWest,50,2,23439,0,0,0,0,0,0,0,1,23439
+MN Brainerd ,1671602,SkyWest,50,2,17160,0,0,0,0,0,0,0,1,17160
+MN Chisholm/Hibbing ,2535502,SkyWest,50,2,11669,0,0,0,0,0,0,0,1,11669
+MN International Falls ,2197037,SkyWest,50,2,16328,0,0,0,0,0,0,0,1,16328
+MN Thief River Falls ,2428750,Great,9,2,2079,0,0,0,0,1,0,0,0,2079
+MO Cape Girardeau/Sikeston ,1627966,Cape,9,4,6544,0,0,0,1,0,0,0,0,6544
+MO Fort Leonard Wood ,2829158,Cape,9,4,8325,0,0,0,1,0,0,0,0,8325
+MO Joplin ,519201,American,50,2,26380,0,1,0,0,0,0,0,0,26380
+MO Kirksville ,1649248,Cape,9,3,5917,0,0,0,1,0,0,0,0,5917
+MS Greenville ,2097960,Boutique,9,3,3029,0,0,1,0,0,0,0,0,3029
+MS Laurel/Hattiesburg ,3910654,ExpressJet,50,2,10633,0,0,0,0,0,0,0,0,10633
+MS Meridian ,3910654,ExpressJet,50,2,6624,0,0,0,0,0,0,0,0,6624
+MS Tupelo ,2506436,SeaPort,9,5,6376,0,0,0,0,0,1,0,0,6376
+MT Butte ,735956,SkyWest,50,2,29738,0,0,0,0,0,0,0,1,29738
+MT Glasgow ,2046800,Cape,9,2,3886,0,0,0,1,0,0,0,0,3886
+MT Glendive ,1944467,Cape,9,2,2519,0,0,0,1,0,0,0,0,2519
+MT Havre ,2036254,Cape,9,2,2409,0,0,0,1,0,0,0,0,2409
+MT Sidney ,3777579,Cape,9,5,11878,0,0,0,1,0,0,0,0,11878
+MT West Yellowstone ,491205,SkyWest,50,2,5637,0,0,0,0,0,0,0,1,5637
+MT Wolf Point ,2145326,Cape,9,2,4013,0,0,0,1,0,0,0,0,4013
+ND Devils Lake ,3224917,SkyWest,50,2,3050,0,0,0,0,0,0,0,1,3050
+ND Jamestown ,3126564,SkyWest,50,2,3207,0,0,0,0,0,0,0,1,3207
+NE Alliance ,2072150,Boutique,9,2,1426,0,0,1,0,0,0,0,0,1426
+NE Chadron ,2120315,Boutique,9,2,2244,0,0,1,0,0,0,0,0,2244
+NE Grand Island ,1270707,American,50,2,61400,0,1,0,0,0,0,0,0,20000
+NE Kearney ,1998178,Great,30,2,13096,0,0,0,0,1,0,0,0,13096
+NE McCook ,2254017,Great,9,2,1978,0,0,0,0,1,0,0,0,1978
+NE North Platte ,1995396,Great,30,2,10421,0,0,0,0,1,0,0,0,10421
+NE Scottsbluff ,1746806,Great,30,2,10172,0,0,0,0,1,0,0,0,10172
+"NH Lebanon/White River Jct., VT ",2972718,Cape,9,6,10614,0,0,0,1,0,0,0,0,10614
+NM Carlsbad ,2410695,Boutique,9,2,2600,0,0,1,0,0,0,0,0,2600
+NM Clovis ,3179857,Boutique,9,3,1952,0,0,1,0,0,0,0,0,1952
+NM Silver City/Hurley/Deming ,3377495,Boutique,9,4,1670,0,0,1,0,0,0,0,0,1670
+NY Jamestown ,2045481,Sun,8,4,3315,0,0,0,0,0,0,0,0,3315
+NY Massena ,2608773,Cape,9,3,4788,0,0,0,1,0,0,0,0,4788
+NY Ogdensburg ,2419820,Cape,9,3,5507,0,0,0,1,0,0,0,0,5507
+NY Plattsburgh ,2714074,PenAir,33,2,151235,0,0,0,0,0,0,0,0,11000
+NY Saranac Lake/Lake Placid ,1832064,Cape,9,3,5759,0,0,0,1,0,0,0,0,5759
+NY Watertown ,3356349,American,43.5,2,19307,0,1,0,0,0,0,0,0,19307
+OR Pendleton ,1834708,SeaPort,9,3,4105,0,0,0,0,0,1,0,0,4105
+PA Altoona ,2346168,Sun,8,4,3701,0,0,0,0,0,0,0,0,3701
+PA Bradford ,2045826,Sun,8,4,2295,0,0,0,0,0,0,0,0,2295
+PA DuBois ,2285539,Silver,34,3,5099,0,0,0,0,0,0,1,0,5099
+PA Franklin/Oil City ,1442788,Sun,8,3,1456,0,0,0,0,0,0,0,0,1456
+PA Johnstown ,2438254,Silver,34,3,6186,0,0,0,0,0,0,1,0,6186
+PA Lancaster ,2504174,Sun,8,5,2767,0,0,0,0,0,0,0,0,2767
+PR Mayaguez ,1198824,Cape,9,4,6165,0,0,0,1,0,0,0,0,6165
+SD Aberdeen ,1043719,SkyWest,50,2,26497,0,0,0,0,0,0,0,1,26497
+SD Huron ,2552000,Great,19,2,1783,0,0,0,0,1,0,0,0,1783
+SD Watertown**** ,2847284,none,19,3,4350,0,0,0,0,0,0,0,0,4350
+TN Jackson ,2072293,Air,9,3,2775,1,0,0,0,0,0,0,0,2775
+TX Victoria ,2288152,Alternate,19,1.5,3288,0,0,0,0,0,0,0,0,3288
+UT Cedar City ,2317439,SkyWest,50,2,14362,0,0,0,0,0,0,0,1,14362
+UT Moab** ,2245247,none,30,2,9259,0,0,0,0,0,0,0,0,9259
+UT Vernal** ,2024577,none,30,2,8203,0,0,0,0,0,0,0,0,8203
+VA Staunton ,1980922,Silver,34,3,19730,0,0,0,0,0,0,1,0,19730
+VT Rutland ,1360481,Cape,9,3,5407,0,0,0,1,0,0,0,0,5407
+WI Eau Claire ,1546536,SkyWest,50,2,21677,0,0,0,0,0,0,0,1,21677
+WI Rhinelander ,2050889,SkyWest,50,2,20819,0,0,0,0,0,0,0,1,20819
+WV Beckley ,2696888,Alternate,30,2,3824,0,0,0,0,0,0,0,0,3824
+WV Clarksburg/Fairmont ,2310252,Silver,34,3,22037,0,0,0,0,0,0,1,0,22037
+WV Greenbrier/White Sulphur Springs ,3582194,Silver,34,2,8604,0,0,0,0,0,0,1,0,8604
+WV Morgantown ,2342074,Silver,34,3,10676,0,0,0,0,0,0,1,0,10676
+WV Parkersburg/Marietta ,3505876,Silver,34,3,8323,0,0,0,0,0,0,1,0,8323
+WY Cody ,1380779,United,50,2,32317,0,0,0,0,0,0,0,0,32317
+WY Laramie ,2078554,SkyWest,50,2,13733,0,0,0,0,0,0,0,1,13733
+WY Worland ,2327987,Great,19,2,2818,0,0,0,0,1,0,0,0,2818
